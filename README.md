@@ -1,1 +1,3 @@
-![Simple Ball Controller Demo](Demo/SimpleBallControllerDemo.gif)SimpleBallControllerDemo
+# Simple Bar Controller Demo
+
+(Demo/SimpleBallControllerDemo.gif)
